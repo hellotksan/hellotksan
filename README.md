@@ -2,7 +2,8 @@
 
 # 👋 Hello, I'm Takahashi !!
 
-学生エンジニアとして、将来はインフラエンジニアまたはソフトウェア開発者を目指しています。オープンソースプロジェクトや Web 開発に情熱を注ぎ、日々技術の習得に励んでいます。
+学生エンジニアとして、将来はインフラエンジニアまたはソフトウェア開発者を目指しています。
+オープンソースプロジェクトや Web 開発に情熱を注ぎ、日々技術の習得に励んでいます。
 
 [🌐 Landing Page](https://landing-page-astro-navy.vercel.app)
 
@@ -16,15 +17,25 @@
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,php,html,css,javascript,typescript,swift,ruby,md&perline=8)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=python,php,html,css,javascript,typescript,swift,md&perline=8)
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,vite,vitest,jest,nextjs,astro,tailwindcss,redux,flask,django&perline=8)](https://skillicons.dev)
+![Frameworks](https://skillicons.dev/icons?i=nodejs,react,vite,vitest,jest,nextjs,astro,tailwindcss,redux,flask,django&perline=8)
+
+![Frameworks2](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
+
+### Databases
+
+![Tools](https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,mongodb&perline=8)
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=vim,vscode,aws,docker,mysql,sqlite,firebase,supabase,mongodb,vercel,linux,github,notion&perline=8)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=vim,vscode,aws,docker,vercel,linux,github,postman&perline=8)
+
+### ToBe
+
+![Tools](https://skillicons.dev/icons?i=go,laravel,ruby,rails,java,postgresql&perline=8)
 
 ---
 
