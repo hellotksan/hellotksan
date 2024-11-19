@@ -11,7 +11,7 @@
 学生エンジニアとして、将来はインフラエンジニアまたはソフトウェア開発者を目指しています。
 オープンソースプロジェクトや Web 開発に情熱を注ぎ、日々技術の習得に励んでいます。
 
-[🌐 Landing Page](https://landing-page-astro-navy.vercel.app)
+[🌐 Landing Page](https://tks-astroplate.vercel.app)
 
 <br><br>
 
