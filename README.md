@@ -17,23 +17,25 @@
 
 ## 🛠 Skills
 
-### Languages
+### Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=python,php,html,css,javascript,typescript,swift,md&perline=8)
+![Languages](https://skillicons.dev/icons?i=python,php,javascript,typescript,swift,go)
 
-### Libraries and Frameworks
+### Libraries
 
-![Frameworks](https://skillicons.dev/icons?i=nodejs,react,vite,vitest,jest,nextjs,astro,tailwindcss,redux,flask,django&perline=8)
+![Libraries](https://go-skill-icons.vercel.app/api/icons?i=react,redux,tailwindcss,threejs)
 
-![Frameworks2](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
+### Frameworks
+
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=express,nodejs,vite,vitest,jest,nextjs,astro,flask,django,reactnative)
 
 ### Databases
 
-![Tools](https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,mongodb&perline=8)
+![Tools](https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,mongodb)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vim,vscode,aws,docker,vercel,linux,github,postman&perline=8)
+![Tools](https://skillicons.dev/icons?i=md,vim,vscode,aws,docker,vercel,linux,github,postman,figma)
 
 <br><br>
 
@@ -47,7 +49,6 @@
 
 ## 🌐 Connect with Me
 
-- **Discord**: [Discord リンク](https://discord.com/channels/1294134400023269467/1294134400023269470)
 - **Email**: [negimasa58@gmail.com](negimasa58@gmail.com)
 
 <br><br>
