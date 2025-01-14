@@ -1,22 +1,12 @@
-# 👋 Hello, Good to See You !!
+# Hello, Good to See You
 
 ## Who am i ??
 
-Im a Student at Saitama IT/WEB tech College.
 Im Takahashi Aspiring Full Stack Web Engineer.
+Im a Student at Saitama IT/WEB tech College.
 
 You Want More Info about Me??
 [CLICK HERE!!](https://tks-astroplate.vercel.app)
-
-## 🛠 Skills
-
-Plz See [Here](https://tks-astroplate.vercel.app/skills)
-
-## 🚀 Projects
-
-- [Next SNS](https://github.com/hellotksan/nextsns)
-
-  よくある SNS アプリケーションのクローンです。
 
 ## 🌐 Connections
 
@@ -33,5 +23,3 @@ Plz See [Here](https://tks-astroplate.vercel.app/skills)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellotksan)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hellotksan)
-
----
