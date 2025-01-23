@@ -1,8 +1,4 @@
-# Hello, Good to See You
-
-## GitHub Status
-
-![Github Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvncer)
+# Привет. Рад тебя видеть!
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lvncer)
 
